@@ -1,7 +1,9 @@
 #%%
 # Import libraries
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
+import pandas as pd
+import matplotlib as plt
 #%%
 # Defining data for the dataframe
 data = {
